@@ -1,0 +1,10 @@
+D:\Systems\STQ\STQ\bin\Debug\STQ.exe.config
+D:\Systems\STQ\STQ\bin\Debug\STQ.exe
+D:\Systems\STQ\STQ\bin\Debug\STQ.pdb
+D:\Systems\STQ\STQ\obj\Debug\STQ.csprojAssemblyReference.cache
+D:\Systems\STQ\STQ\obj\Debug\STQ.Form1.resources
+D:\Systems\STQ\STQ\obj\Debug\STQ.Properties.Resources.resources
+D:\Systems\STQ\STQ\obj\Debug\STQ.csproj.GenerateResource.cache
+D:\Systems\STQ\STQ\obj\Debug\STQ.csproj.CoreCompileInputs.cache
+D:\Systems\STQ\STQ\obj\Debug\STQ.exe
+D:\Systems\STQ\STQ\obj\Debug\STQ.pdb
